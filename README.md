@@ -1,4 +1,4 @@
 erl_modbus
 ==========
 
-Erlang Modbus/TCP Interface
+Erlang Modbus/TCP Master Interface 
